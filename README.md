@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Bus Monitoring System
 
-# Run and deploy your AI Studio app
+## Overview
+A real-time bus monitoring and management system designed to track buses, manage routes, and improve transportation efficiency.
 
-This contains everything you need to run your app locally.
+## Features
+- Bus Tracking
+- Route Management
+- Passenger Information
+- Real-Time Monitoring
 
-View your app in AI Studio: https://ai.studio/apps/69693d65-2b48-456b-b089-96fc28c624b6
+## Technologies Used
+- Java
+- Database
+- Web Technologies
 
-## Run Locally
+## Future Enhancements
+- Live GPS Tracking
+- Mobile Application
+- Notifications and Alerts
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Author
+Vaishnavi Prathipati
