@@ -1,0 +1,5 @@
+{
+  "name": "Smart Public Bus Monitoring System",
+  "description": "A professional fleet management dashboard for real-time bus tracking, ETA calculation, and traffic monitoring with role-based access for citizens and government admins.",
+  "requestFramePermissions": ["geolocation"]
+}
